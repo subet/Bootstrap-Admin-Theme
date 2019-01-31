@@ -26,7 +26,10 @@ http://vinceg.github.com/Bootstrap-Admin-Theme
 
 <p>&copy; <a href='http://vadimg.com' target="_blank">Vadim Vincent Gabriel</a> <a href='https://twitter.com/gabrielva' target='_blank'>Follow @gabrielva</a> 2012</p>
 
-License
+## By Subet
+You can find this theme and similar bootstrap admin themes on: https://usebootstrap.com/themes/admin-dashboard
+
+## License
 ===============
 The MIT License (MIT)
 
